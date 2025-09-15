@@ -4,4 +4,7 @@ dicionario = {
     "casado": True
 }
 
-print(dicionario)
+novo = {
+    i: "carro"
+    for i in range(10)
+}
