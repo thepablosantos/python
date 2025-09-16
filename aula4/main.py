@@ -1,3 +1,3 @@
 nome = input("Qual o seu nome?")
-
-print("Hello", nome)
+idade = input("Qual a sua idade?")
+print("Ola", nome, "voce tem", idade, "anos")
